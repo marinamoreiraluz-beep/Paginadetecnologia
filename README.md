@@ -1,0 +1,2 @@
+# Paginadetecnologia
+Principais conceitos tecnologicos
